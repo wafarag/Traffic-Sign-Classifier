@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/work/MyFiles/Research/DeepLearning/CarND/TrafficSign/traffic-signs-model/"
+all_model_checkpoint_paths: "C:/work/MyFiles/Research/DeepLearning/CarND/TrafficSign/traffic-signs-model/"
