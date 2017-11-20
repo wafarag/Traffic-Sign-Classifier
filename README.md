@@ -1,4 +1,5 @@
-## Project: Build a Traffic Sign Recognition Program
+# Traffic Sign Recognition Project
+
 
 <img src="German_Traffic_Signs_from_Web/25.jpg" width="480" alt="Combined Image" />
 
